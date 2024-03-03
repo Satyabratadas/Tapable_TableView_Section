@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CC97DF5B-3A09-4ED4-9658-443348B0F11D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17DF5C6A-7C05-45C6-B77C-94C95ECFB083"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Multiple_TapableSection_TableView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "tableView(_:heightForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "17DF5C6A-7C05-45C6-B77C-94C95ECFB083 - 7e92b1947b79fb91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Multiple_TapableSection_TableView.ViewController.tableView(_: __C.UITableView, heightForRowAt: Foundation.IndexPath) -&gt; CoreGraphics.CGFloat"
+                  moduleName = "Multiple_TapableSection_TableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satyabrata557/Documents/practice/Multiple_TapableSection_TableView/Multiple_TapableSection_TableView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "17DF5C6A-7C05-45C6-B77C-94C95ECFB083 - 7e92b1947b79f857"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Multiple_TapableSection_TableView.ViewController.tableView(_: __C.UITableView, heightForRowAt: Foundation.IndexPath) -&gt; CoreGraphics.CGFloat"
+                  moduleName = "Multiple_TapableSection_TableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satyabrata557/Documents/practice/Multiple_TapableSection_TableView/Multiple_TapableSection_TableView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
